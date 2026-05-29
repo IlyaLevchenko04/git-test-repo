@@ -1,3 +1,3 @@
 const string = "test-string";
 
-console.log(string);
+alert(string);
